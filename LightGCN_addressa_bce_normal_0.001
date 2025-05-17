@@ -1,0 +1,160 @@
+WARNING:tensorflow:From macr_lightgcn/LightGCN.py:61: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From macr_lightgcn/LightGCN.py:70: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+WARNING:tensorflow:From macr_lightgcn/LightGCN.py:77: The name tf.summary.merge is deprecated. Please use tf.compat.v1.summary.merge instead.
+
+WARNING:tensorflow:From macr_lightgcn/LightGCN.py:77: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From macr_lightgcn/LightGCN.py:178: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+WARNING:tensorflow:From macr_lightgcn/LightGCN.py:693: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
+
+WARNING:tensorflow:From macr_lightgcn/LightGCN.py:739: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+INFO:root:Epoch 1 [124.1s]: train==[1.02842=1.02841 + 0.00001]
+WARNING:tensorflow:From macr_lightgcn/LightGCN.py:61: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From macr_lightgcn/LightGCN.py:70: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+WARNING:tensorflow:From macr_lightgcn/LightGCN.py:77: The name tf.summary.merge is deprecated. Please use tf.compat.v1.summary.merge instead.
+
+WARNING:tensorflow:From macr_lightgcn/LightGCN.py:77: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From macr_lightgcn/LightGCN.py:178: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+WARNING:tensorflow:From macr_lightgcn/LightGCN.py:693: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
+
+WARNING:tensorflow:From macr_lightgcn/LightGCN.py:739: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+INFO:root:Epoch 1 [114.4s]: train==[1.02842=1.02841 + 0.00001]
+WARNING:tensorflow:From macr_lightgcn/LightGCN.py:61: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From macr_lightgcn/LightGCN.py:70: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+WARNING:tensorflow:From macr_lightgcn/LightGCN.py:77: The name tf.summary.merge is deprecated. Please use tf.compat.v1.summary.merge instead.
+
+WARNING:tensorflow:From macr_lightgcn/LightGCN.py:77: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From macr_lightgcn/LightGCN.py:178: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+WARNING:tensorflow:From macr_lightgcn/LightGCN.py:693: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
+
+WARNING:tensorflow:From macr_lightgcn/LightGCN.py:739: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+INFO:root:Epoch 1 [119.6s]: train==[1.02842=1.02841 + 0.00001]
+INFO:root:Epoch 2 [116.6s]: train==[0.86238=0.86234 + 0.00004]
+INFO:root:Epoch 3 [115.3s]: train==[0.78699=0.78692 + 0.00007]
+INFO:root:Epoch 4 [118.6s]: train==[0.73831=0.73820 + 0.00010]
+INFO:root:Epoch 5 [114.5s]: train==[0.69749=0.69734 + 0.00015]
+INFO:root:Epoch 6 [110.1s]: train==[0.66499=0.66480 + 0.00020]
+INFO:root:Epoch 7 [109.2s]: train==[0.63955=0.63930 + 0.00025]
+INFO:root:Epoch 8 [108.6s]: train==[0.61951=0.61921 + 0.00030]
+INFO:root:Epoch 1 [17.9s]: train==[1.22280=1.22279 + 0.00000]
+INFO:root:Epoch 2 [17.5s]: train==[0.97404=0.97402 + 0.00002]
+INFO:root:Epoch 3 [16.7s]: train==[0.90496=0.90494 + 0.00003]
+INFO:root:Epoch 4 [16.4s]: train==[0.86007=0.86003 + 0.00004]
+INFO:root:Epoch 5 [16.5s]: train==[0.82078=0.82073 + 0.00005]
+INFO:root:Epoch 6 [18.3s]: train==[0.78983=0.78977 + 0.00006]
+INFO:root:Epoch 7 [16.5s]: train==[0.76440=0.76432 + 0.00008]
+INFO:root:Epoch 8 [16.4s]: train==[0.74246=0.74237 + 0.00009]
+INFO:root:Epoch 9 [16.5s]: train==[0.72080=0.72069 + 0.00011]
+INFO:root:Epoch 1 [17.7s]: train==[1.22280=1.22279 + 0.00000]
+INFO:root:Epoch 2 [16.7s]: train==[0.97404=0.97402 + 0.00002]
+INFO:root:Epoch 3 [16.7s]: train==[0.90496=0.90494 + 0.00003]
+INFO:root:Epoch 4 [17.2s]: train==[0.86007=0.86003 + 0.00004]
+INFO:root:Epoch 5 [16.7s]: train==[0.82078=0.82073 + 0.00005]
+INFO:root:Epoch 6 [16.6s]: train==[0.78983=0.78977 + 0.00006]
+INFO:root:Epoch 7 [17.0s]: train==[0.76440=0.76432 + 0.00008]
+INFO:root:Epoch 8 [17.1s]: train==[0.74246=0.74237 + 0.00009]
+INFO:root:Epoch 9 [16.8s]: train==[0.72080=0.72069 + 0.00011]
+INFO:root:Epoch 10 [22.6s + 1.5s]: test==[1.73794=1.73770 + 0.00024 + 0.00000], recall=[0.03438], hr=[0.04641], ndcg=[0.01376]
+
+INFO:root:Epoch 11 [17.1s]: train==[0.68250=0.68236 + 0.00015]
+INFO:root:Epoch 12 [16.9s]: train==[0.66904=0.66888 + 0.00016]
+INFO:root:Epoch 13 [17.0s]: train==[0.65516=0.65497 + 0.00018]
+INFO:root:Epoch 14 [17.6s]: train==[0.64482=0.64462 + 0.00020]
+INFO:root:Epoch 15 [16.8s]: train==[0.63455=0.63433 + 0.00022]
+INFO:root:Epoch 16 [16.8s]: train==[0.62389=0.62364 + 0.00024]
+INFO:root:Epoch 17 [17.2s]: train==[0.61150=0.61123 + 0.00026]
+INFO:root:Epoch 18 [17.5s]: train==[0.60942=0.60914 + 0.00028]
+INFO:root:Epoch 19 [16.8s]: train==[0.59979=0.59949 + 0.00031]
+INFO:root:Epoch 20 [20.8s + 0.8s]: test==[2.14084=2.14033 + 0.00051 + 0.00000], recall=[0.03436], hr=[0.04785], ndcg=[0.01380]
+
+INFO:root:Epoch 21 [17.0s]: train==[0.58693=0.58658 + 0.00035]
+INFO:root:Epoch 22 [16.8s]: train==[0.57572=0.57535 + 0.00037]
+INFO:root:Epoch 23 [16.8s]: train==[0.57277=0.57238 + 0.00039]
+INFO:root:Epoch 24 [18.4s]: train==[0.56691=0.56650 + 0.00041]
+INFO:root:Epoch 25 [17.1s]: train==[0.56156=0.56112 + 0.00044]
+INFO:root:Epoch 26 [16.7s]: train==[0.55521=0.55475 + 0.00046]
+INFO:root:Epoch 27 [16.8s]: train==[0.55227=0.55179 + 0.00048]
+INFO:root:Epoch 28 [17.5s]: train==[0.54344=0.54293 + 0.00051]
+INFO:root:Epoch 29 [16.7s]: train==[0.53639=0.53586 + 0.00053]
+INFO:root:Epoch 30 [20.1s + 0.9s]: test==[2.42989=2.42916 + 0.00074 + 0.00000], recall=[0.03604], hr=[0.05072], ndcg=[0.01487]
+
+INFO:root:Epoch 31 [17.1s]: train==[0.52553=0.52495 + 0.00058]
+INFO:root:Epoch 32 [16.8s]: train==[0.51246=0.51186 + 0.00060]
+INFO:root:Epoch 33 [16.7s]: train==[0.50424=0.50362 + 0.00063]
+INFO:root:Epoch 34 [17.3s]: train==[0.49505=0.49439 + 0.00065]
+INFO:root:Epoch 35 [17.0s]: train==[0.49227=0.49160 + 0.00068]
+INFO:root:Epoch 36 [16.7s]: train==[0.47676=0.47606 + 0.00071]
+INFO:root:Epoch 37 [16.7s]: train==[0.47044=0.46971 + 0.00073]
+INFO:root:Epoch 38 [17.3s]: train==[0.45989=0.45913 + 0.00076]
+INFO:root:Epoch 39 [18.4s]: train==[0.44498=0.44419 + 0.00079]
+INFO:root:Epoch 40 [20.0s + 0.5s]: test==[2.59285=2.59186 + 0.00099 + 0.00000], recall=[0.04180], hr=[0.05837], ndcg=[0.01674]
+
+INFO:root:Epoch 41 [17.3s]: train==[0.42745=0.42661 + 0.00084]
+INFO:root:Epoch 42 [17.3s]: train==[0.42012=0.41925 + 0.00087]
+INFO:root:Epoch 43 [16.8s]: train==[0.40985=0.40895 + 0.00090]
+INFO:root:Epoch 44 [16.7s]: train==[0.40184=0.40091 + 0.00093]
+INFO:root:Epoch 45 [17.1s]: train==[0.39063=0.38967 + 0.00096]
+INFO:root:Epoch 46 [17.3s]: train==[0.38142=0.38043 + 0.00099]
+INFO:root:Epoch 47 [16.6s]: train==[0.37130=0.37029 + 0.00101]
+INFO:root:Epoch 48 [16.6s]: train==[0.36581=0.36477 + 0.00104]
+INFO:root:Epoch 49 [16.7s]: train==[0.35559=0.35452 + 0.00107]
+INFO:root:Epoch 50 [21.1s + 0.5s]: test==[2.72380=2.72253 + 0.00127 + 0.00000], recall=[0.04840], hr=[0.06411], ndcg=[0.01918]
+
+INFO:root:Epoch 51 [17.2s]: train==[0.33975=0.33863 + 0.00112]
+INFO:root:Epoch 52 [17.6s]: train==[0.33314=0.33199 + 0.00115]
+INFO:root:Epoch 53 [18.4s]: train==[0.32632=0.32514 + 0.00118]
+INFO:root:Epoch 54 [17.0s]: train==[0.32021=0.31900 + 0.00121]
+INFO:root:Epoch 55 [17.0s]: train==[0.31065=0.30941 + 0.00123]
+INFO:root:Epoch 56 [17.9s]: train==[0.30158=0.30032 + 0.00126]
+INFO:root:Epoch 57 [16.9s]: train==[0.29978=0.29849 + 0.00129]
+INFO:root:Epoch 58 [17.1s]: train==[0.29273=0.29142 + 0.00131]
+INFO:root:Epoch 59 [17.0s]: train==[0.28470=0.28336 + 0.00134]
+INFO:root:Epoch 60 [21.1s + 0.5s]: test==[2.86847=2.86692 + 0.00155 + 0.00000], recall=[0.05229], hr=[0.07225], ndcg=[0.02128]
+
+INFO:root:Epoch 61 [17.0s]: train==[0.27740=0.27601 + 0.00140]
+INFO:root:Epoch 62 [17.3s]: train==[0.27016=0.26874 + 0.00142]
+INFO:root:Epoch 63 [17.1s]: train==[0.26700=0.26555 + 0.00145]
+INFO:root:Epoch 64 [16.9s]: train==[0.25696=0.25548 + 0.00148]
+INFO:root:Epoch 65 [16.9s]: train==[0.25455=0.25305 + 0.00150]
+INFO:root:Epoch 66 [17.4s]: train==[0.25082=0.24929 + 0.00152]
+INFO:root:Epoch 67 [18.3s]: train==[0.24694=0.24539 + 0.00155]
+INFO:root:Epoch 68 [17.0s]: train==[0.24514=0.24357 + 0.00158]
+INFO:root:Epoch 69 [16.7s]: train==[0.23820=0.23660 + 0.00160]
